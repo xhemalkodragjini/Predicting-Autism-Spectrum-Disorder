@@ -25,3 +25,13 @@ Family Member with ASD     -->  Whether any family member is diagnosed with ASD 
 2. K-Nearest Neighbors
 3. Support Vector Machine (SVM)
 4. Decision Tree Classifier
+
+
+### Results Obtained
+To evaluate the 4 models, I used the Confusion Matrix.
+
+The model built with Logistic Regression achieved the highest results: 
+- Precision - 98%,
+- Recall - 97%,
+- F1 Score - 97%,
+- Overall Accuracy - 98%.
