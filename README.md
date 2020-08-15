@@ -19,3 +19,9 @@ Family Member with ASD     -->  Whether any family member is diagnosed with ASD 
 - The dataset did not contain any missing value.
 - Three columns were removed since the information that they contain does not impact the results: the number of the case, who completed the test, and the total score in the test.
 - Categorical values were preset, thus I had to convert them into numerical. I used lambda function for data that contained two labels (Male/Female or Yes/No) where the first label was converted to 0 and the second to 1. Also, Label Encoder was used for the Ethnicity feature values.
+
+### Algorithms Used
+1. Logistic Regression
+2. K-Nearest Neighbors
+3. Support Vector Machine (SVM)
+4. Decision Tree Classifier
