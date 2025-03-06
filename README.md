@@ -10,10 +10,10 @@ The dataset was accessed through the UCI Machine Learning Repository and was ori
 | Q1-Q10 | Answers to the questions of AQ-10 Test (0 or 1) |
 |:-----|:--------:|
 | Age | Age of the participant/child (0-36 months old) |
-Gender                     -->  Gender (m- male, f- female) <br />
-Ethnicity                  -->  Ethnic group to which the participant/child belongs (White European, Asian, etc.) <br />
-Born with Jaundice         -->  Whether the child was born with Jaundice or not (Yes, No) <br />
-Family Member with ASD     -->  Whether any family member is diagnosed with ASD (Yes, No) <br />
+| Gender | Gender (m- male, f- female) |
+| Ethnicity | Ethnic group to which the participant/child belongs (White European, Asian, etc.) |
+| Born with Jaundice | Whether the child was born with Jaundice or not (Yes, No) |
+| Family Member with ASD | Whether any family member is diagnosed with ASD (Yes, No) |
 
 
 ### Data Cleaning and Preprocessing
