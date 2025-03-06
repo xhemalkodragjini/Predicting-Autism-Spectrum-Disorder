@@ -7,7 +7,7 @@ The dataset was accessed through the UCI Machine Learning Repository and was ori
 
 ### Features:
 
-Q1-Q10                     -->  Answers to the questions of AQ-10 Test (0 or 1) <br />
+| Q1-Q10 | Answers to the questions of AQ-10 Test (0 or 1) |
 Age                        -->  Age of the participant/child (0-36 months old) <br />
 Gender                     -->  Gender (m- male, f- female) <br />
 Ethnicity                  -->  Ethnic group to which the participant/child belongs (White European, Asian, etc.) <br />
