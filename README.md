@@ -36,3 +36,16 @@ Out of the 4 models, Logistic Regression achieved the highest results:
 - Recall - 97%,
 - F1 Score - 97%,
 - Overall Accuracy - 98%.
+
+
+## Project Structure
+
+The repository is organized as follows:
+
+```
+Predicting-Autism-Spectrum-Disorder/
+│-- Autism Prediction.ipynb       # The main notebook including training and testing
+│-- EDA.ipynb                     # Notebook for Exploratory Data Analysis
+│-- autismData.csv                # The dataset file
+```
+
