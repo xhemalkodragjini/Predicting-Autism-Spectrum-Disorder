@@ -5,7 +5,7 @@ This repository contains the code and data used to train several ML classifiers 
 ## Data
 The dataset was accessed through the UCI Machine Learning Repository and was originally created by Dr. Fadi Thabtah. He developed a mobile application where parents or caregivers could take several screening tests for toddlers (children of age 12-36 months old), among which was the famous AQ-10 Test. The dataset that will be used to create our model contains results from this test, and some other features, such as age of the child, gender, etc.
 
-## Features:
+## Features
 
 | Feature | Description |
 |:-----|:--------:|
